@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session03.Test_DeleteMethod">
+      <class name="session04.CheckForValidResponse">
         <methods>
-          <include name="test06"/>
+          <include name="GetSingleUserUsingValidatableResponse"/>
         </methods>
-      </class> <!-- session03.Test_DeleteMethod -->
+      </class> <!-- session04.CheckForValidResponse -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
