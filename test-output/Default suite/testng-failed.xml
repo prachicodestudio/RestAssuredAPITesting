@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session05.ValidateResponseHeader">
+      <class name="session06.ValidateJsonResponseBody">
         <methods>
-          <include name="GetSingleUser"/>
+          <include name="UserListResponseBody"/>
         </methods>
-      </class> <!-- session05.ValidateResponseHeader -->
+      </class> <!-- session06.ValidateJsonResponseBody -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
