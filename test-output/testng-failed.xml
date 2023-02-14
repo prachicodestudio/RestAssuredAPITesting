@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session10.AuthorizationDemo">
+      <class name="Session11.AuthorizationDemoOauth">
         <methods>
-          <include name="GetWeatherDataByCity"/>
+          <include name="createOrder"/>
+          <include name="GetAccessToken"/>
         </methods>
-      </class> <!-- session10.AuthorizationDemo -->
+      </class> <!-- Session11.AuthorizationDemoOauth -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

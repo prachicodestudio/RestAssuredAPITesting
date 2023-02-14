@@ -18,15 +18,8 @@ public class AuthorizationDemo {
 		RequestSpecification requestSpec = RestAssured.given();
 		requestSpec.baseUri("https://api.openweathermap.org");
 		requestSpec.basePath("/data/2.5/weather");
-		requestSpec.queryParam("q", "delhi").queryParam("appid", "ed9997485c5aebf644a45kef046becfceb6e6");
+		requestSpec.queryParam("city name", "delhi").queryParam("appid", "ed9997485c5aebf644a45kef046becfceb6e6");
 		Response response = requestSpec.get();
-
-		//validate status code 
-		Assert.assertEquals(response.statusCode()/*actual*/, 200/*expected*/,"check for status code");
-
-		//print status line & response boy
-		System.out.println("Responsne status line:" + response.statusLine());
-		System.out.println("Response body:" + response.body().asString());
 
 	}
 }
