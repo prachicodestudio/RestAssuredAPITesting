@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session12.DeserializationJSonDemo">
+      <class name="Session07.QueryParameterDemo">
         <methods>
-          <include name="createUser"/>
+          <include name="filterData"/>
         </methods>
-      </class> <!-- Session12.DeserializationJSonDemo -->
+      </class> <!-- Session07.QueryParameterDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
