@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-16T19:01:16 IST" name="Default suite" finished-at="2023-02-16T19:01:17 IST" duration-ms="544">
+  <suite started-at="2023-02-18T14:41:57 IST" name="Default suite" finished-at="2023-02-18T14:41:59 IST" duration-ms="2021">
     <groups>
     </groups>
-    <test started-at="2023-02-16T19:01:16 IST" name="Default test" finished-at="2023-02-16T19:01:17 IST" duration-ms="544">
-      <class name="session13.QueryRequestSpecification">
-        <test-method signature="createUser()[pri:0, instance:session13.QueryRequestSpecification@5403f35f]" started-at="2023-02-16T19:01:16 IST" name="createUser" finished-at="2023-02-16T19:01:17 IST" duration-ms="507" status="PASS">
+    <test started-at="2023-02-18T14:41:57 IST" name="Default test" finished-at="2023-02-18T14:41:59 IST" duration-ms="2021">
+      <class name="session14.ValidateXMLResponse">
+        <test-method signature="GetTravellersData()[pri:0, instance:session14.ValidateXMLResponse@483f6d77]" started-at="2023-02-18T14:41:57 IST" name="GetTravellersData" finished-at="2023-02-18T14:41:59 IST" duration-ms="1982" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- session13.QueryRequestSpecification -->
+        </test-method> <!-- GetTravellersData -->
+      </class> <!-- session14.ValidateXMLResponse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

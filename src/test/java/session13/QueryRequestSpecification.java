@@ -18,6 +18,7 @@ public class QueryRequestSpecification {
 	@Test
 	public void createUser()
 	{
+		
 		//create json data
 		JSONObject jsonData = new JSONObject();
 		jsonData.put("name", "Rekha");
