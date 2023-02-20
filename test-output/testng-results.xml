@@ -2,16 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-18T14:41:57 IST" name="Default suite" finished-at="2023-02-18T14:41:59 IST" duration-ms="2021">
+  <suite started-at="2023-02-20T17:28:30 IST" name="Default suite" finished-at="2023-02-20T17:28:33 IST" duration-ms="2740">
     <groups>
     </groups>
-    <test started-at="2023-02-18T14:41:57 IST" name="Default test" finished-at="2023-02-18T14:41:59 IST" duration-ms="2021">
-      <class name="session14.ValidateXMLResponse">
-        <test-method signature="GetTravellersData()[pri:0, instance:session14.ValidateXMLResponse@483f6d77]" started-at="2023-02-18T14:41:57 IST" name="GetTravellersData" finished-at="2023-02-18T14:41:59 IST" duration-ms="1982" status="PASS">
+    <test started-at="2023-02-20T17:28:30 IST" name="Default test" finished-at="2023-02-20T17:28:33 IST" duration-ms="2740">
+      <class name="Session15.JsonObjecUsingJavaMapDemo">
+        <test-method signature="createUser()[pri:0, instance:Session15.JsonObjecUsingJavaMapDemo@483f6d77]" started-at="2023-02-20T17:28:30 IST" name="createUser" finished-at="2023-02-20T17:28:33 IST" duration-ms="2702" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- GetTravellersData -->
-      </class> <!-- session14.ValidateXMLResponse -->
+        </test-method> <!-- createUser -->
+      </class> <!-- Session15.JsonObjecUsingJavaMapDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
