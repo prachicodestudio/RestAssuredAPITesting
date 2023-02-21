@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session15.JsonObjecUsingJavaMapDemo">
+      <class name="testpackage.testClass">
         <methods>
-          <include name="createAuthToken"/>
+          <include name="createTouristDetails"/>
         </methods>
-      </class> <!-- Session15.JsonObjecUsingJavaMapDemo -->
+      </class> <!-- testpackage.testClass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,16 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-20T17:28:30 IST" name="Default suite" finished-at="2023-02-20T17:28:33 IST" duration-ms="2740">
+  <suite started-at="2023-02-21T20:35:58 IST" name="Default suite" finished-at="2023-02-21T20:36:01 IST" duration-ms="2476">
     <groups>
     </groups>
-    <test started-at="2023-02-20T17:28:30 IST" name="Default test" finished-at="2023-02-20T17:28:33 IST" duration-ms="2740">
-      <class name="Session15.JsonObjecUsingJavaMapDemo">
-        <test-method signature="createUser()[pri:0, instance:Session15.JsonObjecUsingJavaMapDemo@483f6d77]" started-at="2023-02-20T17:28:30 IST" name="createUser" finished-at="2023-02-20T17:28:33 IST" duration-ms="2702" status="PASS">
+    <test started-at="2023-02-21T20:35:58 IST" name="Default test" finished-at="2023-02-21T20:36:01 IST" duration-ms="2476">
+      <class name="session16.JSONArrayDemo">
+        <test-method signature="CreateJSonArrayUsingList()[pri:0, instance:session16.JSONArrayDemo@483f6d77]" started-at="2023-02-21T20:35:58 IST" name="CreateJSonArrayUsingList" finished-at="2023-02-21T20:36:01 IST" duration-ms="2435" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- Session15.JsonObjecUsingJavaMapDemo -->
+        </test-method> <!-- CreateJSonArrayUsingList -->
+      </class> <!-- session16.JSONArrayDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
