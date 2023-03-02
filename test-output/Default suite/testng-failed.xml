@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session17.JSONObjectUsingJacksonAPI">
+      <class name="session19.OwnAPITesting">
         <methods>
-          <include name="CreateUser"/>
+          <include name="UpdateUser"/>
+          <include name="setupDefault"/>
         </methods>
-      </class> <!-- session17.JSONObjectUsingJacksonAPI -->
+      </class> <!-- session19.OwnAPITesting -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
