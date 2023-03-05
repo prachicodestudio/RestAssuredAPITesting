@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-03T16:13:53 IST" name="Default suite" finished-at="2023-03-03T16:13:55 IST" duration-ms="2125">
+  <suite started-at="2023-03-05T16:46:13 IST" name="Default suite" finished-at="2023-03-05T16:46:16 IST" duration-ms="2514">
     <groups>
     </groups>
-    <test started-at="2023-03-03T16:13:53 IST" name="Default test" finished-at="2023-03-03T16:13:55 IST" duration-ms="2125">
-      <class name="session20.SerializationAndDeserialization">
-        <test-method signature="CreateJSONObjectFromEmployeeClassObject()[pri:0, instance:session20.SerializationAndDeserialization@6d4e5011]" started-at="2023-03-03T16:13:53 IST" name="CreateJSONObjectFromEmployeeClassObject" finished-at="2023-03-03T16:13:55 IST" duration-ms="2091" status="PASS">
+    <test started-at="2023-03-05T16:46:13 IST" name="Default test" finished-at="2023-03-05T16:46:16 IST" duration-ms="2514">
+      <class name="Session21.JSONArrayPojoClassDemo">
+        <test-method signature="createEmployeesJSONArray()[pri:0, instance:Session21.JSONArrayPojoClassDemo@6d4e5011]" started-at="2023-03-05T16:46:14 IST" name="createEmployeesJSONArray" finished-at="2023-03-05T16:46:16 IST" duration-ms="2483" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateJSONObjectFromEmployeeClassObject -->
-      </class> <!-- session20.SerializationAndDeserialization -->
+        </test-method> <!-- createEmployeesJSONArray -->
+      </class> <!-- Session21.JSONArrayPojoClassDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

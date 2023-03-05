@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session19.OwnAPITesting">
+      <class name="Session21.JSONArrayPojoClassDemo">
         <methods>
-          <include name="UpdateUser"/>
-          <include name="setupDefault"/>
+          <include name="createEmployeesJSONArray"/>
         </methods>
-      </class> <!-- session19.OwnAPITesting -->
+      </class> <!-- Session21.JSONArrayPojoClassDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
