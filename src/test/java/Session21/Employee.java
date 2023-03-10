@@ -1,6 +1,4 @@
-package session20;
-
-import session22.EmployeeAddress;
+package Session21;
 
 public class Employee {
 /*firstName - String
@@ -15,6 +13,9 @@ salary - double*/
 	private int age;
 	private double salary;
 	
+	
+	//getter and setter methods
+
 	public String getFirstName()
 	{
 		return firstname;
