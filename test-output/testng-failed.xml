@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session23.DemoTestComplexNestedJSONObject">
+      <class name="session24.DemoJsonInclude">
         <methods>
-          <include name="createUser"/>
+          <include name="testMethod1"/>
         </methods>
-      </class> <!-- session23.DemoTestComplexNestedJSONObject -->
+      </class> <!-- session24.DemoJsonInclude -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
