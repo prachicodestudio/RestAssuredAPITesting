@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session24.DemoJsonInclude">
+      <class name="session26.DemoIgnoreProperties">
         <methods>
-          <include name="testMethod1"/>
+          <include name="test1"/>
         </methods>
-      </class> <!-- session24.DemoJsonInclude -->
+      </class> <!-- session26.DemoIgnoreProperties -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

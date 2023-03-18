@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-15T14:07:56 IST" name="Default suite" finished-at="2023-03-15T14:07:56 IST" duration-ms="285">
+  <suite started-at="2023-03-18T16:29:11 IST" name="Default suite" finished-at="2023-03-18T16:29:11 IST" duration-ms="253">
     <groups>
     </groups>
-    <test started-at="2023-03-15T14:07:56 IST" name="Default test" finished-at="2023-03-15T14:07:56 IST" duration-ms="285">
-      <class name="session25.DemoJSONIgnore">
-        <test-method signature="testMethod1()[pri:0, instance:session25.DemoJSONIgnore@6d4e5011]" started-at="2023-03-15T14:07:56 IST" name="testMethod1" finished-at="2023-03-15T14:07:56 IST" duration-ms="251" status="PASS">
+    <test started-at="2023-03-18T16:29:11 IST" name="Default test" finished-at="2023-03-18T16:29:11 IST" duration-ms="253">
+      <class name="session26.DemoIgnoreProperties">
+        <test-method signature="test1()[pri:0, instance:session26.DemoIgnoreProperties@fa49800]" started-at="2023-03-18T16:29:11 IST" name="test1" finished-at="2023-03-18T16:29:11 IST" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod1 -->
-      </class> <!-- session25.DemoJSONIgnore -->
+        </test-method> <!-- test1 -->
+      </class> <!-- session26.DemoIgnoreProperties -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
